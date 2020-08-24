@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Research Fields
+- Frontend & Backend Developers
+- Data Scientist
+
 ## Repos You may find interesting
 - GC-SAN
 - TA-GNN
