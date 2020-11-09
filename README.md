@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 ## Repos You may find interesting
 - GC-SAN
 - TA-GNN
+- FGNN (fix the source code)
+- DySAT (fix the source code)
+- NISER
+
+## Current working on
+- Star Graph
