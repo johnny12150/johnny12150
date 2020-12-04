@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - NISER
 
 ## Current working on
-- Star Graph
+- Star Graph (Waiting for the author to reveal)
 
 ## TA tools
 - ZeroJudge auto add problems
