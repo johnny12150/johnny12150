@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 ## TA tools
 - ZeroJudge auto add problems
 - [Leaderboard](http://board.johnny12150.site/)
+
+## Blogs
+- [My blogs](http://blog.johnny12150.site/)
