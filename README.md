@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 ## Current working on
 - Star Graph
+
+## TA tools
+- ZeroJudge auto add problems
+- [Leaderboard](http://board.johnny12150.site/)
