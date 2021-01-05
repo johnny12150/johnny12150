@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Data Scientist
 
 ## Repos You may find interesting
+- SR-GNN multi-gpus supported version
 - GC-SAN
 - TA-GNN
 - FGNN (fix the source code)
