@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 - [My blogs](http://blog.johnny12150.site/)
 - Tutorials(Coming Soon)
 - [Survey on SRS](https://airtable.com/shrH8vpKlF8U0stSz)
+
+## YouTube Channel
+- [增廣建文](https://www.youtube.com/channel/UC9nZtmS0ODarC6hLQUkuwhA)
