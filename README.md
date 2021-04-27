@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 - NISER
 
 ## Current working on
-- Star Graph (Waiting for the author to reveal)
+- ~~Star Graph (Waiting for the author to reveal)~~
+- A repo contains some session-based setting baselines (May public in June)
 
 ## TA tools
 - ZeroJudge auto add problems
