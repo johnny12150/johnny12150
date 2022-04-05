@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 
 ## YouTube Channel
 - [增廣建文](https://www.youtube.com/channel/UC9nZtmS0ODarC6hLQUkuwhA)
+
+## Patreon (Articles)
+- <a href="https://www.patreon.com/bePatron?u=60792929" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
