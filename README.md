@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnny12150&show_icons=true" alt="abuanwar072" /></p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnny12150" />
+
 ## Research Fields
 - Frontend & Backend Developers
 - Data Scientist
